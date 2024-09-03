@@ -1,6 +1,0 @@
-{
-	"parent": "toms_peripherals:block/modem"
-	"textures": {
-		"front": "toms_peripherals:block/keyboard_dongle"
-	}
-}
